@@ -8,11 +8,11 @@
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&
 logo=gmail&logoColor=white)](mailto:richelliadami@gmail.com)
 
-## Tecnologias que estudo
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="40"
+## 🚀 Tecnologias que estou aprendendo
 
-## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&
-show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
